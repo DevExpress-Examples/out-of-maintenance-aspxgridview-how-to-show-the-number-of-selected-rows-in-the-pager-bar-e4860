@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to show the number of selected rows in the Pager bar
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4860/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to show the number of selected rows in the Pager bar.  It is necessary to create a custom <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxGridViewGridViewTemplates_PagerBartopic"><u>PagerBar</u></a> template for this purpose. This template will contain ASPxLabel that allows showing the number of selected rows and a standard pager created via the  <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxGridViewASPxGridViewTemplateReplacementMembersTopicAll"><u>ASPxGridViewTemplateReplacement</u></a> control:<u><br />
